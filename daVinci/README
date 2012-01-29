@@ -1,0 +1,6 @@
+----------------------------------
+ daVinci PoC
+----------------------------------
+A simple twitter run botnet,
+which sends commands via stego-
+jpegs
